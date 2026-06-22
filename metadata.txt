@@ -1,0 +1,17 @@
+[general]
+name=GeoScatter
+qgisMinimumVersion=4.0
+description=Scatter plot viewer for geolocated prediction data with click-to-navigate
+version=0.1.0
+author=Gabriel Belouze
+email=gabriel.belouze@gmail.com
+about=Load a GeoParquet or GeoJSON/GeoPackage file, pick prediction and label columns, and explore the scatter plot. Click any point to pan the QGIS canvas to its location.
+tracker=
+repository=
+hasProcessingProvider=no
+tags=scatter,prediction,visualization,navigation
+homepage=
+category=Plugins
+icon=icon.png
+experimental=True
+deprecated=False
